@@ -58,7 +58,7 @@ A small example just to show, that I can write code section with Markdown.
 ## Education
 - [Online course about data analysis](http://smysl.io/courses/data-1/).
 - Design thinking course at Apply Logistics.
-- ** [Studied to be an editor for 9 month at Art Gorbunov's School](https://bureau.ru/school/editors/).** 
+- **[Studied to be an editor for 9 month at Art Gorbunov's School](https://bureau.ru/school/editors/).** 
 - Marketing without budget. One day masterclass by Igor Mann. 
 - Time management course by coach.by.
 - Creativity course by coach.by.
