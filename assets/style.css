@@ -1,0 +1,85 @@
+h1, h2, h3 {
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+p, a, li {
+    font-family: 'Raleway', sans-serif;
+    line-height: 150%;
+    color: #040404;
+}
+
+
+/* .text a :link {
+
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(35, 82, 124,0.3);
+    text-decoration: none;
+   }
+   
+
+
+   .text a:visited {
+   
+   border-bottom: 1px solid;
+   border-bottom-color: rgba(82, 36, 141 0.3);
+   text-decoration: none;
+   
+   }
+   
+   .text a:hover {
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(14,75,155,0.5);
+    text-decoration: none;
+   } */
+
+main {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #FFFEFC;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+section {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.sectionHeader {
+    margin-bottom: -40px;
+}
+
+.columnWidth {
+    width: 400px;
+}     
+
+.profilePhoto {
+    width: 200px;
+    border-radius: 15px;
+}
+
+.portfolioPhoto {
+    width: 150px;
+    border-radius: 15px;
+    border: solid 0.5px rgba(0, 0, 0, 0.03);
+}
+
+.twoColomns {
+    display: flex;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+	margin: 0;
+	padding: 0;
+    flex-direction: row;
+    width: 900px;
+
+}
